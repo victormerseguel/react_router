@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  width: 500px;
+  top: 0;
+}
+
+.navbar span {
+  flex: 1;
+  padding: 0.8rem 1.2rem;
+}
+
+.active {
+  color: #555;
+  background-color: #ddd;
+}
